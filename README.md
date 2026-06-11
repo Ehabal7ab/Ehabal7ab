@@ -33,7 +33,7 @@ I am a passionate Cybersecurity Engineering student at Northern Technical Univer
 - Consolidates several common inspection steps into a single utility, helping learners understand and practice PE analysis workflows.
 - *Keywords:* Static Analysis, Malware Analysis, C#, Reverse Engineering.
 
-####  [PTaaS Vuln Scanning Tool](https://github.com/Ehabal7ab/PtaaS-vuln_scanning_tools) | Penetration Testing & DevSecOps
+####  [PeakSec](https://github.com/Ehabal7ab/PtaaS-vuln_scanning_tools) | Penetration Testing & DevSecOps
 - A core component of the **PTaaS** (Penetration Testing as a Service) pipeline, built ready for automated security testing operations.
 - Integrates vulnerability scanning within automation workflows to bridge the gap between testing and deployment.
 - *Keywords:* DevSecOps, Automation, Vulnerability Assessment, Pentesting.
